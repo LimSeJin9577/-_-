@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{56D3B953-4CF4-F798-5ADE-42B78239151B}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "chrTest",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "VaRest",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/e47be161e7a24e928560290abd5dcc4f"
+		},
+		{
+			"Name": "MediaPipe",
+			"Enabled": true
+		}
+	]
+}
